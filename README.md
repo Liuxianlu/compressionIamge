@@ -75,3 +75,5 @@ const result = await utils.compressionIamge(e, this, image); // 压缩图片
 谢谢！
 
 https://github.com/Liuxianlu/compressionIamge
+
+https://ext.dcloud.net.cn/plugin?id=1777
