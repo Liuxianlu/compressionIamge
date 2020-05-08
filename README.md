@@ -1,6 +1,6 @@
 
 # sixteen-compression-iamge
-等比例压缩图片 可指定图片宽高
+uni-app 压缩图片 等比例压缩图片 可指定图片宽高
 
 ## 源码 utils.js
 ```javascript
