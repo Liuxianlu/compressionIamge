@@ -1,0 +1,7 @@
+*.html linguist-language=javascript 
+*.css linguist-language=javascript 
+*.less linguist-language=javascript 
+*.sass linguist-language=javascript 
+*.scss linguist-language=javascript 
+*.js linguist-language=javascript 
+*.vue linguist-language=javascript 
